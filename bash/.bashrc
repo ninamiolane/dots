@@ -14,5 +14,8 @@ export CLICOLOR=1
 export LSCOLORS=gxBxhxDxfxhxhxhxhxcxcx
 export EDITOR=/usr/bin/vim
 export PS1='\[\033[01;32m\]\u@\h\[\033[01;34m\] \w $(parse_git_branch)\$\[\033[00m\] '
-export PYTHONPATH=$PYTHONPATH:/Users/ninamiolane/Google\ Drive/My\ Drive/code
+export PYTHONPATH=$PYTHONPATH:/Users/ninamiolane/Google\ Drive/My\ Drive/code:/Users/ninamiolane/Google\ Drive/My\ Drive/code/geomstats
+export PYTHONPATH=$PYTHONPATH:/Users/ninamiolane/Google\ Drive/My\ Drive/code/equivariant-MLP
 export VISUAL=${EDITOR}
+
+cd ~/code
